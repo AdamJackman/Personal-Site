@@ -1,0 +1,32 @@
+{
+  "name": "Personal-Site",
+  "version": "1.0.0",
+  "description": "Personal Site for My Work'",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AdamJackman/Personal-Site.git"
+  },
+  "keywords": [
+    "Adam",
+    "Jackman",
+    "Portfolio"
+  ],
+  "author": "Adam Jackman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdamJackman/Personal-Site/issues"
+  },
+  "homepage": "https://github.com/AdamJackman/Personal-Site",
+  "dependencies": {
+    "ejs": "^2.4.1"
+  },
+  "devDependencies": {
+    "express": "^4.13.4",
+    "nodemon": "^1.9.1"
+  }
+}
