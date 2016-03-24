@@ -21,3 +21,7 @@ tour.addStep('example-step', {
 $(document).ready(function(){
 	//tour.start();
 });
+
+$(document).ready(function(){
+  $('.parallax').parallax();
+});
