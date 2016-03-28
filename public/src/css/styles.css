@@ -40,3 +40,8 @@
 .noverflow {
 	overflow: hidden;
 }
+
+.medium {
+	font-size: 80%;
+    font-weight: 400;
+}
